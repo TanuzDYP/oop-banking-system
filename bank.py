@@ -11,7 +11,7 @@ from models import (
 
 
 class Bank:
-    def __init__(self, name="Apex Capital Bank", storage_file="bank_records.json"):
+    def __init__(self, name="DYP Capital Bank", storage_file="bank_records.json"):
         self.name = name
         self.storage_file = storage_file
         self.accounts = {}
