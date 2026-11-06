@@ -48,7 +48,6 @@ The project is intentionally developed without external dependencies, relying so
 ├── models.py        # Domain entities (Account, SavingsAccount, CheckingAccount, Transaction, Exceptions)
 ├── bank.py          # Central banking coordinator and JSON persistence controller
 ├── main.py          # Interactive command-line interface and presentation layer
-├── .gitignore       # Git exclusion list for bytecode and local session data
 └── README.md        # Project documentation
 ```
 
